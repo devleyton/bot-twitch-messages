@@ -1,5 +1,5 @@
-# twitch-bot
-This a bot for send messages in Twitch web (This is in Spanish)
+# twitch-message-bot
+This a bot for send messages in Twitch web (The message are in Spanish)
 
 This bot it was maked in Python, for send messages in the web of Twitch. 
 
